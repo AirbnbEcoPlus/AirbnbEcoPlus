@@ -3,4 +3,3 @@
 - 👀 Je suis intérresé par le coding
 - 🌱 J'aprend actuellement le java, python et le C# mais j'essaie aussi d'autres languages
 - 📫 Pour me contacter, vous pouvez essayer de m'envoyer un mail a pro.adrienfaure@outlook.com
-![Alt text](https://wakatime.com/share/@todri1/0d7e54fe-496a-4d60-98ac-f9e1d44a8848.svg)
