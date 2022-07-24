@@ -3,4 +3,5 @@
 - 👀 Je suis intérresé par le coding
 - 🌱 J'aprend actuellement le java, python et le C# mais j'essaie aussi d'autres languages
 - 📫 Pour me contacter, vous pouvez essayer de m'envoyer un mail a pro.adrienfaure@outlook.com
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirbnbEcoPlus)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirbnbEcoPlus&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
