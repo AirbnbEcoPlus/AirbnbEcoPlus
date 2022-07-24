@@ -5,3 +5,7 @@
 - 📫 Pour me contacter, vous pouvez essayer de m'envoyer un mail a pro.adrienfaure@outlook.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirbnbEcoPlus&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AirbnbEcoPlus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=todri1)](https://github.com/anuraghazra/github-readme-stats)
