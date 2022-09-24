@@ -2,7 +2,7 @@
 - 👋 Salut, je suis @Krfcm2, j'ai d'autre pseudo comme Todri1 ou Airbnb eco+#6228
 - 👀 Je suis intérresé par le coding
 - 🌱 J'aprend actuellement le java, python et le C# mais j'essaie aussi d'autres languages
-- 📫 Pour me contacter, vous pouvez essayer de m'envoyer un mail a pro.adrienfaure@outlook.com
+- 📫 Pour me contacter, vous pouvez essayer de m'envoyer un mail a adrienfaure@endide.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirbnbEcoPlus&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
