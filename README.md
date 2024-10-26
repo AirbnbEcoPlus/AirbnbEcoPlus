@@ -5,5 +5,5 @@
 - 🌱 My current focus is on studying languages like Java, Python, and PHP
 - 📫 How to reach me ? : send me a mail at pro.adrienfaure@outlook.com
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AirbnbEcoPlus&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=airbnbecoplus&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirbnbEcoPlus&show_icons=true&theme=onedark)
